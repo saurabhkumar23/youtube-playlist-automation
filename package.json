@@ -1,0 +1,29 @@
+{
+  "name": "youtube-playlist-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhkumar23/youtube-playlist-automation.git"
+  },
+  "keywords": [
+    "automation",
+    "nodejs",
+    "youtube-playlist",
+    "puppeteer",
+    "bot"
+  ],
+  "author": "Saurabh Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhkumar23/youtube-playlist-automation/issues"
+  },
+  "homepage": "https://github.com/saurabhkumar23/youtube-playlist-automation#readme",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}

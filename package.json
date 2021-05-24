@@ -1,7 +1,7 @@
 {
   "name": "youtube-playlist-automation",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple automation script which give details about the content of a youtube playlist.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

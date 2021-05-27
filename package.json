@@ -1,5 +1,5 @@
 {
-  "name": "youtube-playlist-automation",
+  "name": "youtube-playlist-duration",
   "version": "1.0.0",
   "description": "A simple automation script which give details about the content of a youtube playlist.",
   "main": "main.js",

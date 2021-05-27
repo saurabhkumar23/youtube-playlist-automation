@@ -1,5 +1,5 @@
 ## YOUTUBE PLAYLIST DURATION
-Sometimes you want to track down the duration of a youtube playlist. This application will help you to calculate the overall duration of the playlist and the time it will take to cover all videos in different time formats. It also shows the playlist data in tabular format. The best part is, It can work for playlists of any length.
+Sometimes you want to track down the duration of a youtube playlist. This application will help you to calculate the overall duration of the playlist and the time it will take to cover all videos in different speed formats. It also shows the playlist data in tabular format. The best part is, It can work for playlists of any length.
 
 ## Setup/Installation
 Open your Terminal/Command in the directory for the project and run these commands.

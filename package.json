@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/saurabhkumar23/youtube-playlist-automation#readme",
   "dependencies": {
-    "puppeteer": "^9.1.1"
+    "puppeteer": "^9.1.1",
+    "readline-sync": "^1.4.10"
   }
 }

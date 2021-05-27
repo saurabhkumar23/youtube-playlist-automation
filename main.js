@@ -126,6 +126,7 @@ async function waitTillHTMLRendered(page, timeout = 30000) {
     }
 };
 
+// calculate time for different speed factors
 function printTimeForSpeed(hrs,mins,secs,speedFactor){
         let carry = 0
         let dig;

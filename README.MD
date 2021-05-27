@@ -12,7 +12,7 @@ Open your Terminal/Command in the directory for the project and run these comman
 - run this command on your terminal:
     - npm link
     - $yt-playlist
-- give the youtube playlist link (for eg: *https://www.youtube.com/playlist?list=PLf7o2Xlqx5OHfAX0mN4CDryeNIWDn3C3_*)
+- give the youtube playlist link (for eg: https://www.youtube.com/playlist?list=PLf7o2Xlqx5OHfAX0mN4CDryeNIWDn3C3_)
 - now, script will show:
     - no of videos.
     - total time duration

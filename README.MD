@@ -16,5 +16,5 @@ Open your Terminal/Command in the directory for the project and run these comman
 - now, script will show:
     - no of videos.
     - total time duration
-    - time duration for different formats : 1.25x, 5x, 1.75x and 2x.
+    - time duration for different speed formats : 1.25x, 5x, 1.75x and 2x.
     - playlist content in tabular form.
